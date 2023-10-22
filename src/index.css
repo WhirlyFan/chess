@@ -18,3 +18,18 @@
 .square.black {
   background-color: #000;
 }
+
+.content {
+  margin: 20px 0;
+}
+
+.piece {
+  display: flex;
+ justify-content: center;
+  align-items: center;
+}
+
+.piece img {
+  width: 100%;
+  height: auto;
+}
